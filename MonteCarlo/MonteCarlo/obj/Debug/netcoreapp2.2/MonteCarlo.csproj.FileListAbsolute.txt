@@ -1,0 +1,11 @@
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp2.2\MonteCarlo.deps.json
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp2.2\MonteCarlo.runtimeconfig.json
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp2.2\MonteCarlo.runtimeconfig.dev.json
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp2.2\MonteCarlo.dll
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\bin\Debug\netcoreapp2.2\MonteCarlo.pdb
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp2.2\MonteCarlo.csprojAssemblyReference.cache
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp2.2\MonteCarlo.csproj.CoreCompileInputs.cache
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp2.2\MonteCarlo.AssemblyInfoInputs.cache
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp2.2\MonteCarlo.AssemblyInfo.cs
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp2.2\MonteCarlo.dll
+C:\Users\Denuve-Portable\Desktop\Algoritmi\MonteCarlo\MonteCarlo\obj\Debug\netcoreapp2.2\MonteCarlo.pdb
